@@ -17,3 +17,5 @@ curl -sSL https://raw.githubusercontent.com/bitnami/bitnami-docker-redis/master/
 
 You might get an error while running this command, just run the below command and try running the curl command again:
 Remove-item alias:curl
+
+P.S: ensure you have MySQl setup with an employee table and correct data
